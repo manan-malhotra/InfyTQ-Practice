@@ -8,3 +8,9 @@ while i < n-1:
         i += 1
     jump += 1
 print(jump)
+
+
+"""
+ip-> 0 0 1 0 0 1 0
+op-> 4
+"""

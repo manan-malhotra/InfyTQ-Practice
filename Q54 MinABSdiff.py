@@ -11,3 +11,9 @@ def minimumAbsoluteDifference(arr):
 n = int(input())
 arr = list(map(int, input().rstrip().split()))
 print(minimumAbsoluteDifference(arr))
+
+"""
+ip-> 3
+     3 -7 0
+op-> 3
+"""

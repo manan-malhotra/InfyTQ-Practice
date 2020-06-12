@@ -9,3 +9,9 @@ else:
     repeats = n//len(s)
     remainders = n % len(s)
     print(str(number*repeats+s[:remainders].count('a')))
+
+"""
+ip-> aba
+ip-> 10
+op-> 7
+"""

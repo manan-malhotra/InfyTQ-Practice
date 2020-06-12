@@ -24,3 +24,9 @@ result = substrCount(n, s)
 print(result)
 # aabaa
 # 9
+
+"""
+ip-> asasd
+op-> 7
+a,s,a,s,d,asa,sas
+"""

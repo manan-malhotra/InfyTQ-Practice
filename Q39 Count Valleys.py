@@ -13,3 +13,10 @@ def valleys(n, string):
 n = 6
 string = "UDDUDU"
 print(valleys(n, string))
+
+
+"""
+ip-> 8
+ip-> UDDDUDUU
+op->1
+"""

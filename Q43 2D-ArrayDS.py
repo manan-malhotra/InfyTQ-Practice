@@ -1,6 +1,6 @@
 A = []
 for arr_i in range(6):
-    arr_t=list(map(int,input().split()))
+    arr_t = list(map(int, input().split()))
     A.append(arr_t)
 
 smax = -9 * 7
@@ -18,3 +18,15 @@ for row in range(len(A) - 2):
         smax = max(s, smax)
 
 print(smax)
+
+
+"""
+ip->
+1 1 1 0 0 0
+0 1 0 0 0 0
+1 1 1 0 0 0
+0 0 2 4 4 0
+0 0 0 2 0 0
+0 0 1 2 4 0
+op->19
+"""

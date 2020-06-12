@@ -26,3 +26,15 @@ for _ in range(test_cases):
             break
     else:
         print(s)
+
+
+"""
+ip->
+2
+5
+2 1 5 3 4
+5
+2 5 1 3 4
+op->
+3 too chaotic
+"""

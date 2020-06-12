@@ -20,3 +20,9 @@ if same == 0:
     print("Yes")
 else:
     print("No")
+
+"""
+ip-> give me five hundred
+ip-> give me hundred
+op-> Yes
+"""

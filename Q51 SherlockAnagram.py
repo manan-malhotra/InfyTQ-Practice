@@ -15,3 +15,9 @@ for caseNo in range(cases):
                 cnt[subs] = 0
             res += cnt[subs]
     print(res)
+
+"""
+ip-> abba
+op-> 4
+a,a  ab,ba  b,b  abb,bba
+"""

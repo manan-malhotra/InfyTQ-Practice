@@ -34,3 +34,14 @@ def isValid(s):
 s = input()
 result = isValid(s)
 print(result)
+
+
+"""
+ip->aabbcd
+op->NO
+"""
+
+"""
+ip-> abcddcbaa
+op-> YES
+"""

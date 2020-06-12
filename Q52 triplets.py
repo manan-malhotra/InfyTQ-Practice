@@ -10,3 +10,11 @@ for i in reversed(arr):
         m2[i] += m1[i * r]
     m1[i] += 1
 print(triplets)
+
+
+"""
+ip-> 6 3
+ip-> 1 3 9 9 27 81
+op-> 6
+Geometric Progression
+"""
