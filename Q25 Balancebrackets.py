@@ -7,3 +7,9 @@ for x in bracket:
     else:
         right += 1
 print(abs(left - right))
+
+"""
+Print no of brackets to delete 
+ip->()((
+op->2
+"""

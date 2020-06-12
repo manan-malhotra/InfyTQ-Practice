@@ -11,3 +11,9 @@ while t != 0:
         print(d[l1[j]], end=" ")
     print()
     t -= 1
+
+"""
+ip->4
+ip->3 9 6 0
+op->1 3 2 0
+"""

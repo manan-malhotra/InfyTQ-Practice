@@ -24,3 +24,9 @@ for i in range(m):
     if o < odd_len:
         print(odd[o], end="")
         o += 1
+
+"""
+ip-> djbs^%&12345
+op-> if no of spcl char is odd start with odd else even
+
+"""

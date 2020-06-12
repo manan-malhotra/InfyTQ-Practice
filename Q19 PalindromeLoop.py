@@ -7,3 +7,8 @@ def palin(n):
 
 
 print(palin(input()))
+
+"""
+ip->122
+op->343
+"""

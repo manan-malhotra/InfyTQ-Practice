@@ -5,3 +5,8 @@ while t != 0:
     list_string.reverse()
     print(".".join(list_string))
     t -= 1
+
+"""
+ip-> I.am.a.boy
+op-> boy.a.am.I
+"""

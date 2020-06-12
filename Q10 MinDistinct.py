@@ -14,3 +14,10 @@ for count in list_element_count:
     else:
         break
 print(length)
+
+"""
+Min distinct no after removal
+ip-> 2 
+ip-> 1 2 2 1 3 3
+op-> 2
+"""

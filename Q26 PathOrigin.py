@@ -7,3 +7,9 @@ while t != 0:
     b = factorial(x) * factorial(y)
     print(a // b)
     t -= 1
+
+"""
+Matrix no of distances
+ip->3 4
+op->35
+"""

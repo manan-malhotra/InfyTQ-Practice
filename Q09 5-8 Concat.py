@@ -11,3 +11,7 @@ for i in range(length):
         n1 += int(num[i])
 print(n1 + int(n2))
 
+"""
+ip-> 1,2,3,4,5,6,7,8,9
+op-> 5697
+"""

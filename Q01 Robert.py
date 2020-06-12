@@ -15,3 +15,7 @@ for i in list:
     else:
         out += name[max - 1]
 print(out)
+"""
+ip-> Robert:23679,Tia:2879,Jo,5757
+op-> tiX
+"""

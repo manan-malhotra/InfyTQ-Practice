@@ -13,4 +13,8 @@ if len(unique) == 0:
     print(-1)
 else:
     print(unique)
-    
+
+"""
+ip-> Manan
+op-> Man
+"""

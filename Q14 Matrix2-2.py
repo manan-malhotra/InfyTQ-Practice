@@ -20,3 +20,7 @@ for r in range(row - 1):
         ):
             print(f"{(m[r][c])} {(m[r][c+1])}")
             print(f"{(m[r+1][c])} {(m[r+1][c+1])}")
+
+"""
+2*2 matrices each divisible
+"""

@@ -30,3 +30,12 @@ def bracketCheck(ip):
 
 n = input()
 print(bracketCheck(n))
+"""
+ip-> ()()(([{}]))
+op->0
+"""
+
+"""
+ip-> ())
+op->3
+"""

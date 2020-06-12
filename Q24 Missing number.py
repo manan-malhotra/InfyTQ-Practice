@@ -6,3 +6,9 @@ while t != 0:
     sum_total = sum(arr)
     print(int(total - sum_total))
     t -= 1
+
+"""
+ip-> 5
+    1 3 4 5
+op-> 2
+"""

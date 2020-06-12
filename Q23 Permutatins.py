@@ -13,3 +13,8 @@ while t != 0:
         print(i, end=" ")
     print()
     t -= 1
+
+"""
+ip-> abc
+op-> abc acb bac bca cab cba
+"""

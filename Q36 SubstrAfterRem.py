@@ -6,5 +6,10 @@ substr = string.split(ch)
 total = 0
 for s in substr:
     l = len(s)
-    total += (l + (l + 1)) / 2
+    total += (l * (l + 1)) / 2
 print(int(total))
+
+"""
+ip->abcdef,b
+op->11
+"""

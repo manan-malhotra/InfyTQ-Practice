@@ -19,3 +19,8 @@ while i <= j:
     i += 1
     j -= 1
 print(out)
+
+"""
+ip-> HeLloWOrld
+op-> dWerHoOLll
+"""

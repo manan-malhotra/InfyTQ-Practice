@@ -23,3 +23,22 @@ if len(list_digit) == 0:
 else:
     print(list_digit)
     print(min(list_digit))
+
+"""
+ip-> 6 6 
+    Matrix of 6*6
+op-> Smallest consecutive
+"""
+
+
+"""
+ip->6 6
+1 1 1 1 2 2
+2 2 2 1 2 1
+1 2 3 2 2 1
+4 2 3 1 2 1
+2 2 3 1 1 2
+2 2 3 2 2 2
+op-> [1, 2, 2, 2, 3, 2]
+1
+"""

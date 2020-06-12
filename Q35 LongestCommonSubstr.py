@@ -14,3 +14,10 @@ while t != 0:
     print(common)
     t -= 1
 
+
+"""
+ip->4 5
+ip->abcd
+ip->cdefg
+op->2
+"""

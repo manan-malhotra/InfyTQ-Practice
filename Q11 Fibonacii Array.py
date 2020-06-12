@@ -20,3 +20,9 @@ if len(list_total) > 2:
     print(list_total)
 else:
     print(-1)
+
+
+"""
+ip-> 2,3,4,6,8
+op-> [2,4,6]
+"""

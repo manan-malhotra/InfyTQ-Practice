@@ -9,3 +9,10 @@ leng = len(s)
 for i in max_no:
     out += i
 print(f"{out},{leng}")
+
+"""
+ip-> 2,5,7
+op-> 752,6
+752 highest number
+6 no of combinations
+"""

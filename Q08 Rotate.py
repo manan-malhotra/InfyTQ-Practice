@@ -13,3 +13,7 @@ for obj in dic:
     else:
         s = string[:2]
         print(string[2:] + s, end=" ")
+"""
+ip->  abcde:12,abcde:121
+op-> cdeab eabcd
+"""

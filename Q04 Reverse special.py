@@ -12,3 +12,8 @@ for x in string:
     else:
         op += x
 print(op)
+
+"""
+ip-> Ma@!nana
+op-> an@!anaM
+"""

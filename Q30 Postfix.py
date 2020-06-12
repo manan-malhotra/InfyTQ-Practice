@@ -20,3 +20,8 @@ while t != 0:
             stack.append(output)
     print(stack[0])
     t -= 1
+
+"""
+ip->92+51--
+op->7
+"""

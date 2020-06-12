@@ -13,3 +13,10 @@ while t != 0:
         delete += abs(s1_count[i] - s2_count[i])
     print(delete)
     t -= 1
+
+"""
+print no of char to delete
+ip->abc
+ip->bcd
+op->2
+"""

@@ -12,8 +12,15 @@ for num in digit_sum_list:
 total_pair = 0
 for count in list_digit_count:
     if count > 1:
-        total_pair += int(math.factorial(count) / (math.factorial(count - 2) * 2))
+        total_pair += int(math.factorial(count) /
+                          (math.factorial(count - 2) * 2))
 if total_pair == 0:
     print(-1)
 else:
     print(total_pair)
+
+"""
+ip-> 22,4,10,1,23,14
+op-> 3
+op= no of times when sum is same bw 2 no
+"""

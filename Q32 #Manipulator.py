@@ -27,3 +27,8 @@ while t != 0:
     else:
         print("No")
     t -= 1
+
+"""
+ip->
+op->
+"""

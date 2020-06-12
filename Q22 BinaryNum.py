@@ -13,3 +13,9 @@ for num in num_list:
     c = num.count("1")
     op = c * (c - 1)
     print(op // 2)
+
+"""
+find total number of pair starting and ending with 1
+ip-> 1101
+op-> 3
+"""

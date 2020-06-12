@@ -9,3 +9,8 @@ while t != 0:
     print(len(ones) + (len(twos) * 2))
     t -= 1
 
+
+"""
+ip->BS0
+op->3
+"""
