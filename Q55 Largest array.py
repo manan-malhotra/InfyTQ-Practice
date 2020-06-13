@@ -1,5 +1,5 @@
 list_num = list(map(int, input().split(",")))
-list_num.sort()
+# list_num.sort()
 length = len(list_num)
 list_total = []
 for i in range(length):
@@ -16,6 +16,8 @@ for i in range(length):
                 second = list_num[y]
                 if len(list_total) < len(f_list):
                     list_total = f_list
+            else:
+                break
 if len(list_total) > 2:
     print(list_total)
 else:
